@@ -37,6 +37,7 @@ android {
 dependencies {
     implementation 'androidx.annotation:annotation:1.0.2'
     implementation 'androidx.core:core:1.0.2'
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
 }
 
 repositories {
